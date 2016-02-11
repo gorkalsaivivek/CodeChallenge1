@@ -1,6 +1,6 @@
 # CodeChallenge1
 
-1) Key Counts
+Key Counts
 Write a function that sums up keys in a text file. The file contains data in
 the format of
 "key,count" where key is a string and count is an integer. Each line will
